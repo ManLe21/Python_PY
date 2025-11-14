@@ -1,0 +1,7 @@
+[
+    {"full_name": "Man Min", "age": 20, "grades": [70.5, 82.0]},
+    {"full_name": "Sam Smith", "age": 16, "grades": [55.0, 49.0]},
+    {"full_name": "Tom Hanks", "age": 22, "grades": [88.0, 91.5]},
+    {"full_name": "Jack Lee", "age": 17, "grades": [45.0, 51.0]},
+    {"full_name": "Eva Brown", "age": 19, "grades": [78.0, 82.0]}
+]
